@@ -1,0 +1,1 @@
+/home/lemuel/Documents/fs_bchain/web3-plus-stuff/Rustlango/little-rust-programs/address_locations/target/debug/address_locations: /home/lemuel/Documents/fs_bchain/web3-plus-stuff/Rustlango/little-rust-programs/address_locations/src/main.rs

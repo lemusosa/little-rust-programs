@@ -1,0 +1,1 @@
+/home/lemuel/Documents/fs_bchain/web3-plus-stuff/Rustlango/little-rust-programs/closure_iterator_methods/target/debug/closure_iterator_methods: /home/lemuel/Documents/fs_bchain/web3-plus-stuff/Rustlango/little-rust-programs/closure_iterator_methods/src/main.rs
